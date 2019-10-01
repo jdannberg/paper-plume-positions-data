@@ -1,4 +1,4 @@
-set Additional shared libraries            = ../shared_libs/libboundary_layers.so,../shared_libs/libcitcom_reference_comparison.so
+set Additional shared libraries            = ../shared_libs_2/libboundary_layers.so,../shared_libs_2/libcitcom_reference_comparison.so
 set CFL number                             = 1.0
 set End time                               = 4.1e8
 set Adiabatic surface temperature          = 1613.0
